@@ -23,18 +23,18 @@ tests:
 
 ## Prompt
 
-This is the Gemini CLI. We are setting up the context for our chat.
+This is the Claude CLI. We are setting up the context for our chat.
 Today's date is Thursday, January 1, 2026 (formatted according to the user's locale).
 My operating system is: win32
-The project's temporary directory is: C:\Users\Dell\.gemini\tmp\b99460cc6049ebbc766fbc1726a129dbaaacc77d02314d7218691e5bd304330f
+The project's temporary directory is: C:\Users\Dell\.claude\tmp\b99460cc6049ebbc766fbc1726a129dbaaacc77d02314d7218691e5bd304330f
 I'm currently working in the directory: \\wsl.localhost\Ubuntu-22.04\home\zs833251\hackathon-todo-phase1\todoapp
 Here is the folder structure of the current working directories:
 
 Showing up to 200 items (files + folders). Folders or files indicated with ... contain more items not shown, were ignored, or the display limit (200 items) was reached.
 
 \\wsl.localhost\Ubuntu-22.04\home\zs833251\hackathon-todo-phase1\todoapp\
-├───GEMINI.md
-├───.gemini\
+├───CLAUDE.md
+├───.claude\
 │   ├───settings.json
 │   └───commands\
 │       ├───sp.adr.toml
