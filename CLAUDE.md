@@ -1,4 +1,4 @@
-# Gemini CLI Rules
+# Claude CLI Rules
 
 This file is generated during init for the selected agent.
 
