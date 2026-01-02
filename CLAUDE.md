@@ -199,9 +199,9 @@ Wait for consent; never auto-create ADRs. Group related decisions (stacks, authe
 ## Basic Project Structure
 
 - `.specify/memory/constitution.md` — Project principles
-- `features/<feature>/spec.md` — Feature requirements
-- `features/<feature>/plan.md` — Architecture decisions
-- `features/<feature>/tasks.md` — Testable tasks with cases
+- `claude/<feature>/spec.md` — Feature requirements
+- `claude/<feature>/plan.md` — Architecture decisions
+- `claude/<feature>/tasks.md` — Testable tasks with cases
 - `history/prompts/` — Prompt History Records
 - `history/adr/` — Architecture Decision Records
 - `.specify/` — SpecKit Plus templates and scripts
