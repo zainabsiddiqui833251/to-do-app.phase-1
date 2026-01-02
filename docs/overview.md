@@ -4,7 +4,7 @@
 Build a command-line Todo application in Python that stores tasks in memory.
 
 ## Scope (Phase I only)
-Implement the 5 Basic Level claude:
+Implement the 5 Basic Level docs:
 - Add Task
 - List Tasks
 - Update Task

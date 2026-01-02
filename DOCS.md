@@ -1,4 +1,4 @@
-# Claude CLI Rules
+# Docs CLI Rules
 
 This file is generated during init for the selected agent.
 
@@ -199,9 +199,9 @@ Wait for consent; never auto-create ADRs. Group related decisions (stacks, authe
 ## Basic Project Structure
 
 - `.specify/memory/constitution.md` — Project principles
-- `claude/<feature>/spec.md` — Feature requirements
-- `claude/<feature>/plan.md` — Architecture decisions
-- `claude/<feature>/tasks.md` — Testable tasks with cases
+- `docs/<feature>/spec.md` — Feature requirements
+- `docs/<feature>/plan.md` — Architecture decisions
+- `docs/<feature>/tasks.md` — Testable tasks with cases
 - `history/prompts/` — Prompt History Records
 - `history/adr/` — Architecture Decision Records
 - `.specify/` — SpecKit Plus templates and scripts
